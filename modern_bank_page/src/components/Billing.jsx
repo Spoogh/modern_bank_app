@@ -1,9 +1,9 @@
 import React from 'react'
 
-const billing = () => {
+const Billing = () => {
   return (
     <div>billing</div>
   )
 }
 
-export default billing
+export default Billing
