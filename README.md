@@ -1,2 +1,15 @@
-# modern_bank_app
-working on a modern bank app
+# Modern Bank Site
+
+## Decription
+ Mockup Bank Page with reusable elements and props
+ Optimized for mobile use.
+
+
+
+## Technology 
+This was created using React, Vite, and Tailwind CSS 
+
+## Live site
+https://spoogh.github.io/modern_bank_page/
+
+
