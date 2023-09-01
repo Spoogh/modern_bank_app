@@ -10,6 +10,6 @@
 This was created using React, Vite, and Tailwind CSS 
 
 ## Live site
-https://spoogh.github.io/modern_bank_page/
+https://joshuafloresjjf.github.io/modern_bank_page/
 
 
